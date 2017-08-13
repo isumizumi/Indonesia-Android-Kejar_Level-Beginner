@@ -8,19 +8,19 @@ Hallo! Silakan jika ingin clone atau unduh repo ini. Terdapat beberapa file untu
 
 # Getting Started
 Folder Dokumentasi: 
-> - Notes.pdf: Catatan dari saya selaku fasilitator untuk seluruh peserta IAK
-> - Recap Materi.pdf: Materi dari Udacity dan beberapa referensi lainnya yang telah saya rangkum
+> - [Notes.pdf](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/blob/master/Dokumentasi/Notes.pdf) : Catatan dari saya selaku fasilitator untuk seluruh peserta IAK
+> - [Recap Materi.pdf](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/blob/master/Dokumentasi/Recap%20Materi.pdf) : Materi dari Udacity dan beberapa referensi lainnya yang telah saya rangkum
 
 Folder Subtitle Video Udacity:
-> - Android Basics: User Interface
-> - Android Basics: User Input
-> - Android Basics: Building Layouts
+> - Android Basics: [User Interface](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/blob/master/Subtitle_Video-Udacity/Subtitle-Android%20Basics_User%20Interface.zip) 
+> - Android Basics: [User Input](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/blob/master/Subtitle_Video-Udacity/Subtitle-Android%20Basics_User%20Input.zip) 
+> - Android Basics: [Building Layouts](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/blob/master/Subtitle_Video-Udacity/Subtitle-Android%20Basics_Building%20Layouts.zip) 
 
 Folder SourceCode_Exercises:
 (Berisi source code dari beberapa latihan membuat aplikasi Android)
-> -  Happy Birthday
-> -  Menu Pesanan
-> -  Court Counter
+> -  [Happy Birthday](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/tree/master/SourceCode_Exercise/HappyBirthdayApp) 
+> -  [Menu Pesanan](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/tree/master/SourceCode_Exercise/MenuPesanan) 
+> -  [Court Counter](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/tree/master/SourceCode_Exercise/CourtCounter) 
 
 *This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.*
 
