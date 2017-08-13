@@ -19,7 +19,7 @@ Folder Subtitle Video Udacity:
 Folder SourceCode_Exercises:
 (Berisi source code dari beberapa latihan membuat aplikasi Android)
 > -  Happy Birthday
-> -  Just Java (Menu Pesanan)
+> -  Menu Pesanan
 > -  Court Counter
 
 *This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.*
