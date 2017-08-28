@@ -10,9 +10,9 @@ Hallo! Silakan jika ingin clone atau unduh repo ini. Terdapat beberapa file untu
 Folder Dokumentasi: 
 > - [Notes.pdf](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/blob/master/Dokumentasi/Notes.pdf) : Catatan dari saya selaku fasilitator untuk seluruh peserta IAK
 > - [Recap Materi.pdf](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/blob/master/Dokumentasi/Recap%20Materi.pdf) : Materi dari Udacity dan beberapa referensi lainnya yang telah saya rangkum
-- [MeetupDay_1](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/blob/master/Dokumentasi/Meetup%20Day%201_1.jpeg) : Foto pertemuan pertama
-- [MeetupDay_2](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/blob/master/Dokumentasi/Meetup%20Day%202_2.jpeg) : Foto pertemuan kedua
-- [Video_dokumentasi](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/blob/master/Dokumentasi/Meetup%20Day%202_Closing%20Party.mp4) : Video dokumentasi
+> - [MeetupDay_1](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/blob/master/Dokumentasi/Meetup%20Day%201_1.jpeg) : Foto pertemuan pertama
+> - [MeetupDay_2](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/blob/master/Dokumentasi/Meetup%20Day%202_2.jpeg) : Foto pertemuan kedua
+> - [Video_dokumentasi](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/blob/master/Dokumentasi/Meetup%20Day%202_Closing%20Party.mp4) : Video dokumentasi
 
 Folder Subtitle Video Udacity:
 > - Android Basics: [User Interface](https://github.com/isumizumi/Indonesia-Android-Kejar_Level-Beginner/blob/master/Subtitle_Video-Udacity/Subtitle-Android%20Basics_User%20Interface.zip) 
